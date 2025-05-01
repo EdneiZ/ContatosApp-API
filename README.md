@@ -31,8 +31,5 @@ ContatosApp-API/ ├── Controllers/ ├── Data/ ├── Models/ ├─
 
 3. Run the application
 
-4. Access Swagger at:
-https://http://localhost:5223/swagger/index.html
-
 📌 About
 This project was created to practice building REST APIs in .NET, using Swagger, and following best practices with Entity Framework.
