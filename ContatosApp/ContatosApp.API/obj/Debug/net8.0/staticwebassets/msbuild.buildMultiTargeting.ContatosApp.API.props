@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ContatosApp.API.props" />
+</Project>

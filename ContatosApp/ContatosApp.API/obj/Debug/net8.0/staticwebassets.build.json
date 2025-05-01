@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I0yOCHC5lOSMMOFpoAWVwLZBfSl/rwRXNXzVaxxqk4s=",
+  "Source": "ContatosApp.API",
+  "BasePath": "_content/ContatosApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

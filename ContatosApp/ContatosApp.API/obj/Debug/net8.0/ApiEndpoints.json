@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "ContatosApp.API.Controllers.ContatosController",
+    "Method": "Post",
+    "RelativePath": "api/Contatos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ContatosApp.API.Models.ContatosPostModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContatosApp.API.Controllers.ContatosController",
+    "Method": "Atualizar",
+    "RelativePath": "api/Contatos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ContatosApp.API.Models.ContatoPutModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContatosApp.API.Controllers.ContatosController",
+    "Method": "GetAll",
+    "RelativePath": "api/Contatos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContatosApp.API.Controllers.ContatosController",
+    "Method": "GetId",
+    "RelativePath": "api/Contatos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContatosApp.API.Controllers.ContatosController",
+    "Method": "Delete",
+    "RelativePath": "api/Contatos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
